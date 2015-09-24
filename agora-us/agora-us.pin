@@ -1,0 +1,55 @@
+#!/usr/bin/env pinpoint
+
+[slide-bg.png]
+[text-align=center]
+[shading-opacity=0,000000]
+--
+Agora Voting
+
+<span font='16'>
+Edulix
+https://agoravoting.com
+edulix@agoravoting.com
+</span>
+
+--
+Voto electrónico / Voto por internet
+
+--
+Cómo funciona Agora Voting
+
+-- [comic/page1.png]
+-- [comic/page2.png]
+-- [comic/page3.png]
+-- [comic/page4.png]
+-- [comic/page5.png]
+-- [comic/page6.png]
+-- [comic/page7.png]
+-- [comic/page8.png]
+-- [comic/page9.png]
+
+--
+Arquitectura de AgoraVoting
+
+-- [agora-arch.png]
+
+-- [text-align=left]
+AuthApi
+
+--
+Agora Core View
+
+--
+Agora Elections
+
+-- [text-align=left]
+Autoridades:
+
+* Election orchestra
+* VFork
+
+--
+Despliegue con Ansible
+
+--
+Desarrollo abierto
